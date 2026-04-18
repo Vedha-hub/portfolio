@@ -22,32 +22,6 @@ A stunning, fully-animated single-page portfolio website showcasing my projects,
 - **Loading Screen:** 2-second animated gradient progress bar
 - **Particles:** 50 floating particles with intelligent connections
 
-## 🚀 Quick Start
-
-### Local Development
-
-```bash
-# Clone the repository
-git clone https://github.com/YOUR_USERNAME/portfolio.git
-
-# Navigate to the folder
-cd portfolio
-
-# Open in browser
-open index.html
-# or on Windows:
-start index.html
-```
-
-### Deploy to Vercel
-
-1. Push code to GitHub
-2. Go to [Vercel.com](https://vercel.com)
-3. Import your GitHub repository
-4. Click Deploy
-5. Your site is live! 🎉
-
-Live Demo: https://portfolio-YOUR_USERNAME.vercel.app
 
 ## 📁 Project Structure
 
@@ -122,34 +96,7 @@ To customize your portfolio:
 5. **Add Social Links:**
    - Add your LinkedIn, GitHub links to navbar
 
-## 🔄 Git Workflow
 
-```bash
-# Make changes to files
-
-# Check status
-git status
-
-# Add changes
-git add .
-
-# Commit
-git commit -m "Add new project"
-
-# Push to GitHub
-git push origin main
-
-# Vercel automatically deploys!
-```
-
-## 🌐 Domain Setup
-
-To connect a custom domain:
-
-1. Register domain on GoDaddy, Namecheap, etc.
-2. Go to Vercel → Settings → Domains
-3. Add your domain
-4. Update DNS records according to Vercel's instructions
 
 ## 📚 Resources
 
